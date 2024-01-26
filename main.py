@@ -15,7 +15,7 @@ screen.tracer(0)
 
 r_paddle = Paddle((370, 0))
 l_paddle = Paddle((-370, 0))
-# game_net = GameNet()
+game_net = GameNet()
 ball = Ball()
 score = ScoreBoard()
 
